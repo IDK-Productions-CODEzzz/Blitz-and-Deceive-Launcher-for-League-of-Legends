@@ -1,5 +1,5 @@
 # Blitz and Deceive Launcher for League of Legends
-Do you like to appear offline to your friends and have Blitz autofill your runes? Do you disable Blitz and League to start when you boot your computer? Then this is helpful to you!
+Do you like to appear offline to your friends and have Blitz autofill your spells and runes? Do you disable Blitz and League to start when you boot your computer? Then this is helpful to you!
 
 Must have League of Legends already installed. Only for Windows.
 
